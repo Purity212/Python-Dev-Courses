@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8796a489-0c52-40f9-8bf8-fa8e7a8c6e19" name="Changes" comment="">
+    <list default="true" id="8796a489-0c52-40f9-8bf8-fa8e7a8c6e19" name="Changes" comment="Домашнее задание по теме &quot;Обзор сторонних библиотек Python&quot;">
       <change afterPath="$PROJECT_DIR$/.idea/Python Dev Courses.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -13,8 +13,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Мультипоточность/dccd.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Мультипоточность/thread_queues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Обзор сторонних библиотек/exapmle_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Обзор сторонних библиотек/np_pd_plt_practice/libraries_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Обзор сторонних библиотек/np_pd_plt_practice/exapmle_data.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "Python.libraries_practice.executor": "Run",
     "Python.thread_queues.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/andre/pythonUniversityProjects/Homeworks/Python Dev Courses/Обзор сторонних библиотек",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -76,6 +75,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732792255785</updated>
     </task>
+    <task id="LOCAL-00001" summary="Домашнее задание по теме &quot;Обзор сторонних библиотек Python&quot;">
+      <option name="closed" value="true" />
+      <created>1736529535938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736529535938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Домашнее задание по теме &quot;Обзор сторонних библиотек Python&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Обзор сторонних библиотек Python&quot;" />
   </component>
 </project>
